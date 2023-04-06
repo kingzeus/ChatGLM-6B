@@ -1,0 +1,7 @@
+langchain==0.0.132
+transformers==4.27.4
+unstructured[local-inference]
+layoutparser[layoutmodels,tesseract]
+nltk
+sentence-transformers
+beautifulsoup4
